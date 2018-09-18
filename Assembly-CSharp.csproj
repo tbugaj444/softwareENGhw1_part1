@@ -62,6 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ChangeColor.cs" />
+    <Compile Include="Assets\changeScene.cs" />
+    <Compile Include="Assets\changeScene_toColor.cs" />
+    <Compile Include="Assets\colorBlock.cs" />
+    <Compile Include="Assets\DrawLine.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
